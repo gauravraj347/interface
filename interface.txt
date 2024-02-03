@@ -148,21 +148,3 @@ class Cat extends Animal implements Pet {
     return name;
   }
 }
-```
-
-Source: Conversation with Bing, 4/2/2024
-(1) Interface (Java) - Wikipedia. https://en.wikipedia.org/wiki/Interface_%28Java%29.
-(2) Interface in Java - Javatpoint. https://www.javatpoint.com/interface-in-java.
-(3) Interfaces in Java - GeeksforGeeks. https://www.geeksforgeeks.org/interfaces-in-java/.
-(4) Java Interfaces | Baeldung. https://www.baeldung.com/java-interfaces.
-(5) What Is an Interface? (The Java™ Tutorials - Oracle. https://docs.oracle.com/javase/tutorial/java/concepts/interface.html.
-(6) Class and Interface in Java - Javatpoint. https://www.javatpoint.com/class-and-interface-in-java.
-(7) Difference between Abstract class and Interface - Javatpoint. https://www.javatpoint.com/difference-between-abstract-class-and-interface.
-(8) Difference between Abstract Class and Interface in Java. https://www.geeksforgeeks.org/difference-between-abstract-class-and-interface-in-java/.
-(9) java - How should I have explained the difference between an Interface .... https://stackoverflow.com/questions/18777989/how-should-i-have-explained-the-difference-between-an-interface-and-an-abstract.
-(10) When to use abstract classes vs. interfaces in Java | InfoWorld. https://www.infoworld.com/article/2077421/when-to-use-abstract-classes-vs-interfaces-in-java.html.
-(11) Abstract Class vs Interface in Java – Difference Between Them - Guru99. https://www.guru99.com/interface-vs-abstract-class-java.html.
-(12) Should methods in a Java interface be declared with or without a public .... https://stackoverflow.com/questions/161633/should-methods-in-a-java-interface-be-declared-with-or-without-a-public-access-m.
-(13) Access modifiers for classes or interfaces in Java. https://www.geeksforgeeks.org/access-modifiers-for-classes-or-interfaces-in-java/.
-(14) What are the modifiers allowed for methods in an Interface in java?. https://www.tutorialspoint.com/what-are-the-modifiers-allowed-for-methods-in-an-interface-in-java.
-(15) Defining an Interface (The Java™ Tutorials - Oracle. https://docs.oracle.com/javase/tutorial/java/IandI/interfaceDef.html.
